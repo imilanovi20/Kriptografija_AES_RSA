@@ -1,5 +1,7 @@
 # Kriptografija_AES_RSA
 
+Na ovom repozitoriju nalazi se projekt iz kolegija *Napredni operacijski sustavi* na Fakultetu organizacije i informatike.
+
 Ova aplikacija omogućuje korisnicima izvođenje različitih kriptografskih operacija koristeći algoritme AES i RSA.
 Aplikacija se pokreće u Visual Studio okruženju te pruža korisničko sučelje za odabir i obradu tekstualnih datoteka.
 
